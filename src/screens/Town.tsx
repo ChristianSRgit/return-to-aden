@@ -105,7 +105,7 @@ export function Town() {
               botín ×{mult.toFixed(2)}
             </span>
             {s.run && (
-              <span class="tag" style="color:var(--gold-soft)">
+              <span class="tag" style="color:var(--cyan)">
                 racha {s.run.streak}
               </span>
             )}

@@ -8,10 +8,12 @@ export function TopBar() {
   const s = hasGame() ? S() : null;
   const run = s?.run;
   const st = saveStatus.value;
+  const inRunBattle = !!run && screen.value === "battle";
   return (
     <div id="topbar">
       <button
         id="tbTitle"
+        hidden={inRunBattle}
         onClick={() => {
           if (s && TOWN_PANES.includes(screen.value) && screen.value !== "town") {
             sfx("ui");
@@ -21,7 +23,7 @@ export function TopBar() {
       >
         RETURN&nbsp;TO&nbsp;ADEN
       </button>
-      {run && screen.value === "battle" ? (
+      {inRunBattle ? (
         <span
           id="runInd"
           class={runMult() - 1 >= 0.48 ? "hot" : ""}

@@ -140,17 +140,34 @@ export function Battle() {
         }
         case "sparks": {
           const [x, y] = spotOf(e.where);
+          const magic = e.kind === "magic";
+          const cols = magic
+            ? ["#8ff5ec", "#34d1c4", "#ffffff"]
+            : e.where === "hero"
+              ? ["#ffffff", "#ff7a72", "#e05650"]
+              : ["#ffffff", "#f4c66a", "#f2b134"];
           particles.burst(x, y, {
-            count: e.crit ? 26 : 12 + Math.round(e.power * 10),
-            speed: e.crit ? 0.5 : 0.28 + e.power * 0.22,
-            colors: e.crit
-              ? ["#fff", "#ff5d4d", "#f2b134"]
-              : e.where === "hero"
-                ? ["#fff", "#ff5d4d", "#d6423c"]
-                : ["#fff", "#f2b134", "#e9c877"],
-            size: e.crit ? 4 : 3,
-            life: e.crit ? 560 : 440,
+            count: (e.crit ? 22 : 10) + Math.round(e.power * 12),
+            speed: (magic ? 0.24 : 0.34) + e.power * 0.2 + (e.crit ? 0.14 : 0),
+            spread: magic ? Math.PI * 2 : Math.PI * 1.5,
+            angle: e.where === "hero" ? -Math.PI / 2 : -Math.PI / 2.4,
+            colors: cols,
+            size: (magic ? 2.6 : 3) + (e.crit ? 1.4 : 0),
+            life: e.crit ? 560 : magic ? 520 : 420,
+            gravity: magic ? 0.0002 : 0.0013,
+            shape: magic ? "mote" : "shard",
+            glow: magic ? 12 : 7,
           });
+          if (e.crit) particles.ring(x, y, magic ? "#34d1c4" : "#ff5d4d");
+          break;
+        }
+        case "critpulse": {
+          const el = document.getElementById("critpulse");
+          if (el) {
+            el.className = "";
+            void el.offsetWidth;
+            el.className = "go " + (e.who === "hero" ? "hurt" : "hit");
+          }
           break;
         }
         case "pose": {
@@ -485,6 +502,7 @@ export function Battle() {
       </div>
 
       <div id="flash" />
+      <div id="critpulse" />
 
       {levelUp && (
         <LevelUpOverlay gains={levelUp} onDone={() => setLevelUp(null)} />

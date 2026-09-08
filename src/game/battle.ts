@@ -44,7 +44,14 @@ export type FxEvent =
   | { t: "hit"; who: "hero" | "mob" }
   | { t: "flash"; strong?: boolean }
   | { t: "shake"; amp?: number }
-  | { t: "sparks"; where: "hero" | "mob"; crit: boolean; power: number }
+  | {
+      t: "sparks";
+      where: "hero" | "mob";
+      crit: boolean;
+      power: number;
+      kind: "phys" | "magic";
+    }
+  | { t: "critpulse"; who: "hero" | "mob" }
   | { t: "pose"; pose: "lunge" | "cast" | "idle" }
   | { t: "spawn"; cls: string; host: "hero" | "foe" | "arena"; life: number; html?: string }
   | { t: "streak"; text: string; sub?: string }
@@ -120,8 +127,15 @@ function flash(strong = false) {
 function shake(amp = 1) {
   if (!motionOff()) fx({ t: "shake", amp });
 }
-function sparks(where: "hero" | "mob", crit: boolean, power: number) {
-  if (!motionOff()) fx({ t: "sparks", where, crit, power });
+function sparks(
+  where: "hero" | "mob",
+  crit: boolean,
+  power: number,
+  kind: "phys" | "magic",
+) {
+  if (motionOff()) return;
+  fx({ t: "sparks", where, crit, power, kind });
+  if (crit) fx({ t: "critpulse", who: where });
 }
 function streakBanner(text: string, sub?: string) {
   fx({ t: "streak", text, sub });
@@ -730,7 +744,18 @@ export async function turn(action: string, arg?: number | string) {
         sfx(r.crit ? "crit" : "hit");
         if (r.crit) flash(true);
         hitFx("mob");
-        sparks("mob", r.crit, pw);
+        sparks(
+          "mob",
+          r.crit,
+          pw,
+          isSkill
+            ? sk!.kind === "magic"
+              ? "magic"
+              : "phys"
+            : CLASSES[s.cls].fx === "spell"
+              ? "magic"
+              : "phys",
+        );
         shake(r.crit ? 1.7 : 0.5 + pw);
         popup(r.crit ? "¡" + r.dmg + "!" : String(r.dmg), r.crit ? "crit" : "", "mob");
         sync();
@@ -803,7 +828,7 @@ export async function turn(action: string, arg?: number | string) {
       if (mr.crit) flash(true);
       hitFx("hero");
       if (dmg > 0) {
-        sparks("hero", mr.crit, pw);
+        sparks("hero", mr.crit, pw, "phys");
         shake(mr.crit ? 1.9 : 0.6 + pw);
       }
       if (absorbed > 0) popup("−" + absorbed * (B.buff!.shield || 1) + " PM", "mp", "hero");

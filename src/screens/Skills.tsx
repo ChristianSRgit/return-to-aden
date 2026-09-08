@@ -113,9 +113,9 @@ export function Skills() {
             <div
               class="row"
               key={k}
-              style={`border-color:${equipped ? "var(--gold)" : "var(--hair)"};${
-                !known && !lvlOk ? "opacity:.55" : ""
-              }`}
+              style={`border-color:${equipped ? "var(--cyan-deep)" : "var(--hair)"};${
+                equipped ? "box-shadow:inset 0 0 14px rgba(52,209,196,.07);" : ""
+              }${!known && !lvlOk ? "opacity:.55" : ""}`}
             >
               <div class="meta">
                 <div class="nm">
