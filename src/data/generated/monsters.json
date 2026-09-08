@@ -1,0 +1,1439 @@
+{
+  "18342": {
+    "id": 18342,
+    "name": "Gremlin",
+    "level": 1,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 40,
+      "mp": 40,
+      "exp": 29,
+      "sp": 2,
+      "pAtk": 8,
+      "pDef": 44,
+      "mAtk": 6,
+      "mDef": 30,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 20,
+      "runSpd": 50
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Fairy",
+    "raceIconFile": "skill4302.png",
+    "raceDescription": "Many members of this ancient race left our world as it changed to become more hostile. Some scholars theorize that Fairies were actually living works of art created by the gods for their entertainment.",
+    "behavior": {
+      "aggroRange": 0
+    },
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 69,
+      "name": "Shadow of the Mother Tree",
+      "minLevel": 1
+    }
+  },
+  "20003": {
+    "id": 20003,
+    "name": "Goblin",
+    "level": 5,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 80,
+      "mp": 70,
+      "exp": 178,
+      "sp": 5,
+      "pAtk": 12,
+      "pDef": 52,
+      "mAtk": 8,
+      "mDef": 34,
+      "crit": 1,
+      "atkSpd": 253,
+      "walkSpd": 40,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 264,
+        "name": "Keen Claws",
+        "levelMin": 3,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 2,
+      "name": "Dark Elven Village"
+    },
+    "primaryLocation": {
+      "id": 74,
+      "name": "The Shilen Temple",
+      "minLevel": null
+    }
+  },
+  "20008": {
+    "id": 20008,
+    "name": "Felim Lizardman",
+    "level": 14,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 230,
+      "mp": 141,
+      "exp": 498,
+      "sp": 19,
+      "pAtk": 27,
+      "pDef": 71,
+      "mAtk": 19,
+      "mDef": 47,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 43,
+      "runSpd": 130
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 340,
+        "name": "Subjugation of Lizardmen",
+        "levelMin": 17,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 5,
+      "name": "Town of Gludio"
+    },
+    "primaryLocation": {
+      "id": 57,
+      "name": "Fellmere Harvesting Grounds",
+      "minLevel": 17
+    }
+  },
+  "20022": {
+    "id": 20022,
+    "name": "Misery Skeleton",
+    "level": 14,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 230,
+      "mp": 141,
+      "exp": 424,
+      "sp": 16,
+      "pAtk": 27,
+      "pDef": 71,
+      "mAtk": 19,
+      "mDef": 47,
+      "crit": 8,
+      "atkSpd": 253,
+      "walkSpd": 60,
+      "runSpd": 140
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4274,
+        "level": 1,
+        "name": "Blunt Attack Weak Point",
+        "iconFile": "skill4274.png",
+        "description": "Vulnerable to Blunt Weapons."
+      },
+      {
+        "id": 4275,
+        "level": 2,
+        "name": "Sacred Attack Weak Point",
+        "iconFile": "skill4275.png",
+        "description": "Vulnerable to sacred attacks."
+      },
+      {
+        "id": 4278,
+        "level": 1,
+        "name": "Dark Attack",
+        "iconFile": "skill4278.png",
+        "description": "Unleashes a dark attack."
+      }
+    ],
+    "race": "Undead",
+    "raceIconFile": "skill4290.png",
+    "raceDescription": "Called out of their graves by black magic, a curse or the power of an evil mind, most of these creatures lack intelligence and can perform only simple actions. However, some high-ranking undead possess great knowledge and sophistication even when compared to ordinary humanoids.",
+    "behavior": {
+      "aggroRange": 500,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 227,
+        "name": "Test Of The Reformer",
+        "levelMin": 39,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 412,
+        "name": "Path to a Dark Wizard",
+        "levelMin": 19,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 2,
+      "name": "Dark Elven Village"
+    },
+    "primaryLocation": {
+      "id": 76,
+      "name": "School of Dark Arts",
+      "minLevel": 10
+    }
+  },
+  "20053": {
+    "id": 20053,
+    "name": "Ol Mahum Patrol",
+    "level": 21,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 364,
+      "mp": 205,
+      "exp": 787,
+      "sp": 36,
+      "pAtk": 48,
+      "pDef": 90,
+      "mAtk": 33,
+      "mDef": 60,
+      "crit": 8,
+      "atkSpd": 253,
+      "walkSpd": 50,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 326,
+        "name": "Vanquish Remnants",
+        "levelMin": 21,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 407,
+        "name": "Path to an Elven Scout",
+        "levelMin": 19,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 6,
+      "name": "Gludin Village"
+    },
+    "primaryLocation": {
+      "id": 38,
+      "name": "Abandoned Camp",
+      "minLevel": 21
+    }
+  },
+  "20083": {
+    "id": 20083,
+    "name": "Granite Golem",
+    "level": 33,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 702,
+      "mp": 373,
+      "exp": 2239,
+      "sp": 129,
+      "pAtk": 113,
+      "pDef": 129,
+      "mAtk": 77,
+      "mDef": 86,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 23,
+      "runSpd": 23
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4247,
+        "level": 3,
+        "name": "NPC Windstrike - Slow",
+        "iconFile": "skill0000.png",
+        "description": "none"
+      },
+      {
+        "id": 4273,
+        "level": 3,
+        "name": "Resist Dagger",
+        "iconFile": "skill4273.png",
+        "description": "Resistant to Dagger attacks."
+      },
+      {
+        "id": 4274,
+        "level": 1,
+        "name": "Blunt Attack Weak Point",
+        "iconFile": "skill4274.png",
+        "description": "Vulnerable to Blunt Weapons."
+      },
+      {
+        "id": 4284,
+        "level": 5,
+        "name": "Resist Bleeding",
+        "iconFile": "skill4284.png",
+        "description": "Resistant to Bleed attack."
+      },
+      {
+        "id": 4444,
+        "level": 2,
+        "name": "Higher Resist Bow Weapons",
+        "iconFile": "skill4444.png",
+        "description": "Very resistant to Bow Weapon attacks."
+      }
+    ],
+    "race": "Magic Creature",
+    "raceIconFile": "skill4291.png",
+    "raceDescription": "The common name for the biotechnological items of the Magic and Titan Ages. Their M. Atk. is generally strong and they sometimes use high-skill magic, such as teleportation.",
+    "behavior": {
+      "aggroRange": 0
+    },
+    "involvedInQuests": [
+      {
+        "id": 216,
+        "name": "Trial of the Guildsman",
+        "levelMin": 35,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 329,
+        "name": "Curiosity of a Dwarf",
+        "levelMin": 33,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 5,
+      "name": "Town of Gludio"
+    },
+    "primaryLocation": {
+      "id": 33,
+      "name": "Wasteland",
+      "minLevel": 25
+    }
+  },
+  "20093": {
+    "id": 20093,
+    "name": "Orc Fighter",
+    "level": 10,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 163,
+      "mp": 108,
+      "exp": 363,
+      "sp": 12,
+      "pAtk": 19,
+      "pDef": 62,
+      "mAtk": 13,
+      "mDef": 41,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 45,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 500,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 257,
+        "name": "The Guard Is Busy",
+        "levelMin": 6,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 54,
+      "name": "Talking Island Harbor",
+      "minLevel": null
+    }
+  },
+  "20103": {
+    "id": 20103,
+    "name": "Giant Spider",
+    "level": 15,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 247,
+      "mp": 149,
+      "exp": 545,
+      "sp": 22,
+      "pAtk": 30,
+      "pDef": 74,
+      "mAtk": 20,
+      "mDef": 49,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 72,
+      "runSpd": 130
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4279,
+        "level": 1,
+        "name": "Fire Attack Weak Point",
+        "iconFile": "skill4279.png",
+        "description": "Vulnerable to fire attacks."
+      }
+    ],
+    "race": "Bug",
+    "raceIconFile": "skill4301.png",
+    "raceDescription": "They consist of insects, spiders and worms and act upon their highly refined instincts. Sometimes their instincts present themselves in a more developed form than that of humanoid society.",
+    "behavior": {
+      "aggroRange": 500
+    },
+    "involvedInQuests": [
+      {
+        "id": 151,
+        "name": "Cure for Fever Disease",
+        "levelMin": 15,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 259,
+        "name": "Rancher's Plea",
+        "levelMin": 15,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Path to a Human Knight",
+        "levelMin": 19,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 53,
+      "name": "Elven Ruins",
+      "minLevel": 9
+    }
+  },
+  "20109": {
+    "id": 20109,
+    "name": "Salamander",
+    "level": 17,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 283,
+      "mp": 166,
+      "exp": 988,
+      "sp": 42,
+      "pAtk": 35,
+      "pDef": 79,
+      "mAtk": 24,
+      "mDef": 52,
+      "crit": 1,
+      "atkSpd": 253,
+      "walkSpd": 64,
+      "runSpd": 96
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4001,
+        "level": 1,
+        "name": "NPC Wind Strike",
+        "iconFile": "skill0000.png",
+        "description": "none"
+      },
+      {
+        "id": 4009,
+        "level": 5,
+        "name": "Resist Fire",
+        "iconFile": "skill4009.png",
+        "description": "Resistant to fire attacks."
+      },
+      {
+        "id": 4100,
+        "level": 1,
+        "name": "NPC Prominence",
+        "iconFile": "skill0000.png",
+        "description": "none"
+      },
+      {
+        "id": 4104,
+        "level": 1,
+        "name": "Flame",
+        "iconFile": "skill0000.png",
+        "description": "Burning flames engulf you, inflicting continuous damage. Effect 2."
+      },
+      {
+        "id": 4280,
+        "level": 1,
+        "name": "Water Attack Weak Point",
+        "iconFile": "skill4280.png",
+        "description": "Vulnerable to water attacks."
+      }
+    ],
+    "race": "Spirit",
+    "raceIconFile": "skill4296.png",
+    "raceDescription": "They are not necessarily creatures, but elemental energy beings.  They basically belong to the 4 elements, which are water, fire, wind, and earth, but they also dwell in natural objects. They are known to be governed by the gods of water, fire, wind, and earth.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 306,
+        "name": "Crystals of Fire and Ice",
+        "levelMin": 17,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    }
+  },
+  "20120": {
+    "id": 20120,
+    "name": "Wolf",
+    "level": 4,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 68,
+      "mp": 62,
+      "exp": 141,
+      "sp": 4,
+      "pAtk": 11,
+      "pDef": 50,
+      "mAtk": 8,
+      "mDef": 33,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 24,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Animal",
+    "raceIconFile": "skill4293.png",
+    "raceDescription": "These general animals are hunted by humanoids. They sometimes attack humanoids, but only to defend themselves or their territory.",
+    "behavior": {
+      "aggroRange": 0
+    },
+    "involvedInQuests": [
+      {
+        "id": 258,
+        "name": "Bring Wolf Pelts",
+        "levelMin": 3,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 56,
+      "name": "Talking Island, Eastern Territory",
+      "minLevel": 1
+    }
+  },
+  "20132": {
+    "id": 20132,
+    "name": "Werewolf",
+    "level": 9,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 143,
+      "mp": 100,
+      "exp": 321,
+      "sp": 11,
+      "pAtk": 18,
+      "pDef": 60,
+      "mAtk": 12,
+      "mDef": 40,
+      "crit": 1,
+      "atkSpd": 253,
+      "walkSpd": 50,
+      "runSpd": 120
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 257,
+        "name": "The Guard Is Busy",
+        "levelMin": 6,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 52,
+      "name": "Obelisk of Victory",
+      "minLevel": null
+    }
+  },
+  "20144": {
+    "id": 20144,
+    "name": "Hangman Tree",
+    "level": 35,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 773,
+      "mp": 403,
+      "exp": 1817,
+      "sp": 108,
+      "pAtk": 129,
+      "pDef": 137,
+      "mAtk": 88,
+      "mDef": 91,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 55,
+      "runSpd": 174
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4047,
+        "level": 3,
+        "name": "Hold",
+        "iconFile": "skill4047.png",
+        "description": "You are immobilized, as if rooted to the ground by an unseen force."
+      },
+      {
+        "id": 4275,
+        "level": 2,
+        "name": "Sacred Attack Weak Point",
+        "iconFile": "skill4275.png",
+        "description": "Vulnerable to sacred attacks."
+      },
+      {
+        "id": 4277,
+        "level": 5,
+        "name": "Resist Poison",
+        "iconFile": "skill4277.png",
+        "description": "Resistant to poison attack."
+      },
+      {
+        "id": 4278,
+        "level": 1,
+        "name": "Dark Attack",
+        "iconFile": "skill4278.png",
+        "description": "Unleashes a dark attack."
+      },
+      {
+        "id": 4279,
+        "level": 1,
+        "name": "Fire Attack Weak Point",
+        "iconFile": "skill4279.png",
+        "description": "Vulnerable to fire attacks."
+      }
+    ],
+    "race": "Plant",
+    "raceIconFile": "skill4294.png",
+    "raceDescription": "These consist of trees, grasses, mushrooms, and fungi. Instinctual creatures, it is generally impossible to have a conversation with them.",
+    "behavior": {
+      "aggroRange": 500
+    },
+    "involvedInQuests": [
+      {
+        "id": 212,
+        "name": "Trial of Duty",
+        "levelMin": 35,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 219,
+        "name": "Testimony of Fate",
+        "levelMin": 37,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 225,
+        "name": "Test of the Searcher",
+        "levelMin": 39,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 7,
+      "name": "Town of Dion"
+    },
+    "primaryLocation": {
+      "id": 2,
+      "name": "Execution Grounds",
+      "minLevel": 25
+    }
+  },
+  "20147": {
+    "id": 20147,
+    "name": "Hobgoblin",
+    "level": 21,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 364,
+      "mp": 205,
+      "exp": 764,
+      "sp": 35,
+      "pAtk": 48,
+      "pDef": 90,
+      "mAtk": 33,
+      "mDef": 60,
+      "crit": 1,
+      "atkSpd": 253,
+      "walkSpd": 45,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 330,
+        "name": "Adept of Taste",
+        "levelMin": 24,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 3,
+      "name": "Orc Village"
+    },
+    "primaryLocation": {
+      "id": 137,
+      "name": "Immortal Plateau, Southern Region",
+      "minLevel": 18
+    }
+  },
+  "20154": {
+    "id": 20154,
+    "name": "Mandragora Sprout",
+    "level": 21,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 364,
+      "mp": 205,
+      "exp": 764,
+      "sp": 35,
+      "pAtk": 48,
+      "pDef": 90,
+      "mAtk": 33,
+      "mDef": 60,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 80,
+      "runSpd": 80
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4001,
+        "level": 2,
+        "name": "NPC Wind Strike",
+        "iconFile": "skill0000.png",
+        "description": "none"
+      },
+      {
+        "id": 4002,
+        "level": 2,
+        "name": "NPC HP Drain",
+        "iconFile": "skill0000.png",
+        "description": "none"
+      },
+      {
+        "id": 4076,
+        "level": 2,
+        "name": "Decrease Speed",
+        "iconFile": "skill0000.png",
+        "description": "Instantly reduces Speed. Effect 2."
+      },
+      {
+        "id": 4277,
+        "level": 5,
+        "name": "Resist Poison",
+        "iconFile": "skill4277.png",
+        "description": "Resistant to poison attack."
+      },
+      {
+        "id": 4279,
+        "level": 1,
+        "name": "Fire Attack Weak Point",
+        "iconFile": "skill4279.png",
+        "description": "Vulnerable to fire attacks."
+      }
+    ],
+    "race": "Plant",
+    "raceIconFile": "skill4294.png",
+    "raceDescription": "These consist of trees, grasses, mushrooms, and fungi. Instinctual creatures, it is generally impossible to have a conversation with them.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 216,
+        "name": "Trial of the Guildsman",
+        "levelMin": 35,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 221,
+        "name": "Testimony Of Prosperity",
+        "levelMin": 37,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 330,
+        "name": "Adept of Taste",
+        "levelMin": 24,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 7,
+      "name": "Town of Dion"
+    },
+    "primaryLocation": {
+      "id": 6,
+      "name": "Mandragora Farm",
+      "minLevel": 20
+    }
+  },
+  "20192": {
+    "id": 20192,
+    "name": "Tyrant",
+    "level": 35,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 773,
+      "mp": 403,
+      "exp": 1781,
+      "sp": 105,
+      "pAtk": 129,
+      "pDef": 137,
+      "mAtk": 88,
+      "mDef": 91,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 70,
+      "runSpd": 174
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [
+      {
+        "id": 4279,
+        "level": 1,
+        "name": "Fire Attack Weak Point",
+        "iconFile": "skill4279.png",
+        "description": "Vulnerable to fire attacks."
+      }
+    ],
+    "race": "Beast",
+    "raceIconFile": "skill4292.png",
+    "raceDescription": "They are animals who prey on humanoids for food. Some of them are mythological creatures that existed before the origins of humanity.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 219,
+        "name": "Testimony of Fate",
+        "levelMin": 37,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 220,
+        "name": "Testimony Of Glory",
+        "levelMin": 37,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 230,
+        "name": "Test of the Summoner",
+        "levelMin": 39,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 5,
+      "name": "Town of Gludio"
+    },
+    "primaryLocation": {
+      "id": 33,
+      "name": "Wasteland",
+      "minLevel": 25
+    }
+  },
+  "20205": {
+    "id": 20205,
+    "name": "Dire Wolf",
+    "level": 24,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 435,
+      "mp": 246,
+      "exp": 954,
+      "sp": 47,
+      "pAtk": 60,
+      "pDef": 99,
+      "mAtk": 41,
+      "mDef": 66,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 24,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Animal",
+    "raceIconFile": "skill4293.png",
+    "raceDescription": "These general animals are hunted by humanoids. They sometimes attack humanoids, but only to defend themselves or their territory.",
+    "behavior": {
+      "aggroRange": 500,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 380,
+        "name": "Bring Out the Flavor of Ingredients!",
+        "levelMin": 24,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 7,
+      "name": "Town of Dion"
+    },
+    "primaryLocation": {
+      "id": 14,
+      "name": "Plains of Dion",
+      "minLevel": 23
+    }
+  },
+  "20432": {
+    "id": 20432,
+    "name": "Elpy",
+    "level": 1,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 40,
+      "mp": 40,
+      "exp": 35,
+      "sp": 2,
+      "pAtk": 8,
+      "pDef": 44,
+      "mAtk": 6,
+      "mDef": 30,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 50,
+      "runSpd": 80
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Animal",
+    "raceIconFile": "skill4293.png",
+    "raceDescription": "These general animals are hunted by humanoids. They sometimes attack humanoids, but only to defend themselves or their territory.",
+    "behavior": {
+      "aggroRange": 0
+    },
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 48,
+      "name": "Talking Island",
+      "minLevel": null
+    }
+  },
+  "20468": {
+    "id": 20468,
+    "name": "Kaboo Orc",
+    "level": 6,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 94,
+      "mp": 77,
+      "exp": 213,
+      "sp": 6,
+      "pAtk": 14,
+      "pDef": 54,
+      "mAtk": 9,
+      "mDef": 36,
+      "crit": 1,
+      "atkSpd": 253,
+      "walkSpd": 45,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 0,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 260,
+        "name": "Hunt the Orcs",
+        "levelMin": 6,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 1,
+      "name": "Elven Village"
+    },
+    "primaryLocation": {
+      "id": 70,
+      "name": "Elven Village",
+      "minLevel": null
+    }
+  },
+  "20479": {
+    "id": 20479,
+    "name": "Kasha Bear",
+    "level": 15,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 247,
+      "mp": 149,
+      "exp": 539,
+      "sp": 22,
+      "pAtk": 30,
+      "pDef": 74,
+      "mAtk": 20,
+      "mDef": 49,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 40,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Animal",
+    "raceIconFile": "skill4293.png",
+    "raceDescription": "These general animals are hunted by humanoids. They sometimes attack humanoids, but only to defend themselves or their territory.",
+    "behavior": {
+      "aggroRange": 500
+    },
+    "involvedInQuests": [
+      {
+        "id": 276,
+        "name": "Totem of the Hestui",
+        "levelMin": 15,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 415,
+        "name": "Path to a Monk",
+        "levelMin": 19,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 416,
+        "name": "Path To An Orc Shaman",
+        "levelMin": 19,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 3,
+      "name": "Orc Village"
+    },
+    "primaryLocation": {
+      "id": 155,
+      "name": "Valley of the Lords",
+      "minLevel": null
+    }
+  },
+  "20481": {
+    "id": 20481,
+    "name": "Bearded Keltir",
+    "level": 1,
+    "npcType": "Monster",
+    "isAggressive": false,
+    "stats": {
+      "hp": 40,
+      "mp": 40,
+      "exp": 35,
+      "sp": 2,
+      "pAtk": 8,
+      "pDef": 44,
+      "mAtk": 6,
+      "mDef": 30,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 23,
+      "runSpd": 110
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Animal",
+    "raceIconFile": "skill4293.png",
+    "raceDescription": "These general animals are hunted by humanoids. They sometimes attack humanoids, but only to defend themselves or their territory.",
+    "behavior": {
+      "aggroRange": 0
+    },
+    "involvedInQuests": [
+      {
+        "id": 154,
+        "name": "Sacrifice to the Sea",
+        "levelMin": 2,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 0,
+      "name": "Talking Island Village"
+    },
+    "primaryLocation": {
+      "id": 48,
+      "name": "Talking Island",
+      "minLevel": null
+    }
+  },
+  "20495": {
+    "id": 20495,
+    "name": "Turek Orc Warlord",
+    "level": 30,
+    "npcType": "Monster",
+    "isAggressive": true,
+    "stats": {
+      "hp": 604,
+      "mp": 329,
+      "exp": 2780,
+      "sp": 152,
+      "pAtk": 93,
+      "pDef": 118,
+      "mAtk": 63,
+      "mDef": 79,
+      "crit": 4,
+      "atkSpd": 253,
+      "walkSpd": 45,
+      "runSpd": 130
+    },
+    "baseStats": {
+      "str": 40,
+      "dex": 30,
+      "con": 43,
+      "int": 21,
+      "wit": 20,
+      "men": 20
+    },
+    "skills": [],
+    "race": "Humanoid",
+    "raceIconFile": "skill4295.png",
+    "raceDescription": "They have two arms, two legs, and they walk upright. Culture and communal life varies by race.",
+    "behavior": {
+      "aggroRange": 500,
+      "assistRange": 300
+    },
+    "involvedInQuests": [
+      {
+        "id": 213,
+        "name": "Trial of the Seeker",
+        "levelMin": 35,
+        "roles": [
+          "kill"
+        ]
+      },
+      {
+        "id": 327,
+        "name": "Recover the Farmland",
+        "levelMin": 25,
+        "roles": [
+          "kill"
+        ]
+      }
+    ],
+    "primaryRegion": {
+      "id": 6,
+      "name": "Gludin Village"
+    },
+    "primaryLocation": {
+      "id": 39,
+      "name": "Orc Barracks",
+      "minLevel": 24
+    }
+  }
+}

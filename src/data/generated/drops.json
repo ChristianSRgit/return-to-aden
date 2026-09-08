@@ -1,0 +1,2052 @@
+{
+  "18342": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "7–13",
+      "chance": 100,
+      "chanceDisplay": "100%",
+      "type": "adena"
+    }
+  ],
+  "20003": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "30–42",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 116,
+      "itemName": "Magic Ring",
+      "qty": "1",
+      "chance": 11.8249,
+      "chanceDisplay": "11.82%",
+      "type": "regular"
+    },
+    {
+      "itemId": 112,
+      "itemName": "Apprentice's Earring",
+      "qty": "1",
+      "chance": 7.9637,
+      "chanceDisplay": "7.96%",
+      "type": "regular"
+    },
+    {
+      "itemId": 118,
+      "itemName": "Necklace of Magic",
+      "qty": "1",
+      "chance": 5.9125,
+      "chanceDisplay": "5.91%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 1.9512,
+      "chanceDisplay": "1.95%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 1.9512,
+      "chanceDisplay": "1.95%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1865,
+      "itemName": "Varnish",
+      "qty": "1",
+      "chance": 0.9756,
+      "chanceDisplay": "0.98%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1788,
+      "itemName": "Recipe: Bow",
+      "qty": "1",
+      "chance": 0.7805,
+      "chanceDisplay": "0.78%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1866,
+      "itemName": "Suede",
+      "qty": "1",
+      "chance": 0.6504,
+      "chanceDisplay": "0.65%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 0.3903,
+      "chanceDisplay": "0.39%",
+      "type": "regular"
+    },
+    {
+      "itemId": 116,
+      "itemName": "Magic Ring",
+      "qty": "1",
+      "chance": 34.3131,
+      "chanceDisplay": "34.31%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1871,
+      "itemName": "Charcoal",
+      "qty": "1",
+      "chance": 5.6617,
+      "chanceDisplay": "5.66%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1786,
+      "itemName": "Recipe: Broad Sword",
+      "qty": "1",
+      "chance": 4.5293,
+      "chanceDisplay": "4.53%",
+      "type": "spoil"
+    }
+  ],
+  "20008": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "114–168",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1870,
+      "itemName": "Coal",
+      "qty": "1",
+      "chance": 4.3891,
+      "chanceDisplay": "4.39%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1865,
+      "itemName": "Varnish",
+      "qty": "1",
+      "chance": 4.3891,
+      "chanceDisplay": "4.39%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1792,
+      "itemName": "Recipe: Short Spear",
+      "qty": "1",
+      "chance": 0.3228,
+      "chanceDisplay": "0.32%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2371,
+      "itemName": "Fist of Butcher",
+      "qty": "1",
+      "chance": 0.0517,
+      "chanceDisplay": "0.05%",
+      "type": "regular"
+    },
+    {
+      "itemId": 255,
+      "itemName": "Fox Claw Gloves",
+      "qty": "1",
+      "chance": 0.0244,
+      "chanceDisplay": "0.02%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1871,
+      "itemName": "Charcoal",
+      "qty": "1",
+      "chance": 22.2882,
+      "chanceDisplay": "22.29%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1870,
+      "itemName": "Coal",
+      "qty": "1",
+      "chance": 22.2882,
+      "chanceDisplay": "22.29%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1793,
+      "itemName": "Recipe: Sword of Reflection",
+      "qty": "1",
+      "chance": 1.6388,
+      "chanceDisplay": "1.64%",
+      "type": "spoil"
+    }
+  ],
+  "20022": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "97–143",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 7.4615,
+      "chanceDisplay": "7.46%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1799,
+      "itemName": "Recipe: Leather Gloves",
+      "qty": "1",
+      "chance": 5.527,
+      "chanceDisplay": "5.53%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1869,
+      "itemName": "Iron Ore",
+      "qty": "1",
+      "chance": 3.7307,
+      "chanceDisplay": "3.73%",
+      "type": "regular"
+    },
+    {
+      "itemId": 20,
+      "itemName": "Buckler",
+      "qty": "1",
+      "chance": 0.4026,
+      "chanceDisplay": "0.4%",
+      "type": "regular"
+    },
+    {
+      "itemId": 43,
+      "itemName": "Wooden Helmet",
+      "qty": "1",
+      "chance": 0.2813,
+      "chanceDisplay": "0.28%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1831,
+      "itemName": "Antidote",
+      "qty": "1",
+      "chance": 50.5199,
+      "chanceDisplay": "50.52%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1872,
+      "itemName": "Animal Bone",
+      "qty": "1",
+      "chance": 25.2599,
+      "chanceDisplay": "25.26%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1921,
+      "itemName": "Leather Shoes Texture",
+      "qty": "1",
+      "chance": 12.2225,
+      "chanceDisplay": "12.22%",
+      "type": "spoil"
+    }
+  ],
+  "20053": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "134–238",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 6.9312,
+      "chanceDisplay": "6.93%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1869,
+      "itemName": "Iron Ore",
+      "qty": "1",
+      "chance": 3.4656,
+      "chanceDisplay": "3.47%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1930,
+      "itemName": "Boot Lining",
+      "qty": "1",
+      "chance": 1.4811,
+      "chanceDisplay": "1.48%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1878,
+      "itemName": "Braided Hemp",
+      "qty": "1",
+      "chance": 1.3863,
+      "chanceDisplay": "1.39%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2151,
+      "itemName": "Recipe: Necklace of Devotion",
+      "qty": "1",
+      "chance": 0.9654,
+      "chanceDisplay": "0.97%",
+      "type": "regular"
+    },
+    {
+      "itemId": 39,
+      "itemName": "Boots",
+      "qty": "1",
+      "chance": 0.094,
+      "chanceDisplay": "0.09%",
+      "type": "regular"
+    },
+    {
+      "itemId": 51,
+      "itemName": "Bracer",
+      "qty": "1",
+      "chance": 0.094,
+      "chanceDisplay": "0.09%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5437,
+      "itemName": "Recipe: Heavy Sword(100%)",
+      "qty": "1",
+      "chance": 0.0848,
+      "chanceDisplay": "0.08%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1898,
+      "itemName": "Blue Diamond Necklace Gem",
+      "qty": "1",
+      "chance": 3.013,
+      "chanceDisplay": "3.01%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1926,
+      "itemName": "Piece Bone Breastplate Fragment",
+      "qty": "1",
+      "chance": 2.9627,
+      "chanceDisplay": "2.96%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2015,
+      "itemName": "Sword Breaker Edge",
+      "qty": "1",
+      "chance": 0.3577,
+      "chanceDisplay": "0.36%",
+      "type": "spoil"
+    }
+  ],
+  "20083": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "251–501",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1884,
+      "itemName": "Cord",
+      "qty": "1",
+      "chance": 2.7778,
+      "chanceDisplay": "2.78%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1878,
+      "itemName": "Braided Hemp",
+      "qty": "1",
+      "chance": 1.8182,
+      "chanceDisplay": "1.82%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2155,
+      "itemName": "Recipe: Elven Ring",
+      "qty": "1",
+      "chance": 0.7519,
+      "chanceDisplay": "0.75%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1939,
+      "itemName": "Mithril Banded Gaiters Material",
+      "qty": "1",
+      "chance": 0.4619,
+      "chanceDisplay": "0.46%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1938,
+      "itemName": "Mithril Banded Mail Material",
+      "qty": "1",
+      "chance": 0.3536,
+      "chanceDisplay": "0.35%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2985,
+      "itemName": "Recipe: Plate Boots",
+      "qty": "1",
+      "chance": 0.346,
+      "chanceDisplay": "0.35%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1874,
+      "itemName": "Oriharukon Ore",
+      "qty": "1",
+      "chance": 0.2882,
+      "chanceDisplay": "0.29%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1889,
+      "itemName": "Compound Braid",
+      "qty": "1",
+      "chance": 0.2309,
+      "chanceDisplay": "0.23%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5220,
+      "itemName": "Metal Hardener",
+      "qty": "1",
+      "chance": 0.2165,
+      "chanceDisplay": "0.22%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2286,
+      "itemName": "Recipe: Bonebreaker",
+      "qty": "1",
+      "chance": 0.0288,
+      "chanceDisplay": "0.03%",
+      "type": "regular"
+    },
+    {
+      "itemId": 415,
+      "itemName": "Mithril Banded Gaiters",
+      "qty": "1",
+      "chance": 0.0111,
+      "chanceDisplay": "0.01%",
+      "type": "regular"
+    },
+    {
+      "itemId": 416,
+      "itemName": "Reinforced Leather Gaiters",
+      "qty": "1",
+      "chance": 0.0111,
+      "chanceDisplay": "0.01%",
+      "type": "regular"
+    },
+    {
+      "itemId": 393,
+      "itemName": "Mithril Banded Mail",
+      "qty": "1",
+      "chance": 0.007,
+      "chanceDisplay": "1/14,286",
+      "type": "regular"
+    },
+    {
+      "itemId": 394,
+      "itemName": "Reinforced Leather Shirt",
+      "qty": "1",
+      "chance": 0.007,
+      "chanceDisplay": "1/14,286",
+      "type": "regular"
+    },
+    {
+      "itemId": 2154,
+      "itemName": "Recipe: Elven Earring",
+      "qty": "1",
+      "chance": 6.3531,
+      "chanceDisplay": "6.35%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2987,
+      "itemName": "Recipe: Plate Shield",
+      "qty": "1",
+      "chance": 5.761,
+      "chanceDisplay": "5.76%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2975,
+      "itemName": "Recipe: Brigandine Helmet",
+      "qty": "1",
+      "chance": 5.2981,
+      "chanceDisplay": "5.3%",
+      "type": "spoil"
+    }
+  ],
+  "20093": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "98–132",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1060,
+      "itemName": "Lesser Healing Potion",
+      "qty": "1",
+      "chance": 5.972,
+      "chanceDisplay": "5.97%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1872,
+      "itemName": "Animal Bone",
+      "qty": "1",
+      "chance": 3.5832,
+      "chanceDisplay": "3.58%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1867,
+      "itemName": "Animal Skin",
+      "qty": "1",
+      "chance": 3.5832,
+      "chanceDisplay": "3.58%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2138,
+      "itemName": "Recipe: Coarse Bone Powder (100%)",
+      "qty": "1",
+      "chance": 0.7905,
+      "chanceDisplay": "0.79%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2005,
+      "itemName": "Broadsword Blade",
+      "qty": "1",
+      "chance": 0.384,
+      "chanceDisplay": "0.38%",
+      "type": "regular"
+    },
+    {
+      "itemId": 3,
+      "itemName": "Broadsword",
+      "qty": "1",
+      "chance": 0.086,
+      "chanceDisplay": "0.09%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1867,
+      "itemName": "Animal Skin",
+      "qty": "1",
+      "chance": 24.2609,
+      "chanceDisplay": "24.26%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1666,
+      "itemName": "Recipe: Wooden Arrow",
+      "qty": "1",
+      "chance": 6.0652,
+      "chanceDisplay": "6.07%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2007,
+      "itemName": "Bow Shaft",
+      "qty": "1",
+      "chance": 1.2997,
+      "chanceDisplay": "1.3%",
+      "type": "spoil"
+    }
+  ],
+  "20103": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "119–180",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 17,
+      "itemName": "Wooden Arrow",
+      "qty": "10–30",
+      "chance": 17.4458,
+      "chanceDisplay": "17.45%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1872,
+      "itemName": "Animal Bone",
+      "qty": "1",
+      "chance": 4.6523,
+      "chanceDisplay": "4.65%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1867,
+      "itemName": "Animal Skin",
+      "qty": "1",
+      "chance": 4.6523,
+      "chanceDisplay": "4.65%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1921,
+      "itemName": "Leather Shoes Texture",
+      "qty": "1",
+      "chance": 3.0015,
+      "chanceDisplay": "3%",
+      "type": "regular"
+    },
+    {
+      "itemId": 49,
+      "itemName": "Gloves",
+      "qty": "1",
+      "chance": 0.3512,
+      "chanceDisplay": "0.35%",
+      "type": "regular"
+    },
+    {
+      "itemId": 37,
+      "itemName": "Leather Shoes",
+      "qty": "1",
+      "chance": 0.3512,
+      "chanceDisplay": "0.35%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1794,
+      "itemName": "Recipe: Forest Bow",
+      "qty": "1",
+      "chance": 0.2566,
+      "chanceDisplay": "0.26%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1871,
+      "itemName": "Charcoal",
+      "qty": "1–2",
+      "chance": 23.6245,
+      "chanceDisplay": "23.62%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1803,
+      "itemName": "Recipe: Necklace of Wisdom",
+      "qty": "1",
+      "chance": 19.8526,
+      "chanceDisplay": "19.85%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1921,
+      "itemName": "Leather Shoes Texture",
+      "qty": "1",
+      "chance": 15.2416,
+      "chanceDisplay": "15.24%",
+      "type": "spoil"
+    }
+  ],
+  "20109": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "196–315",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 6.7842,
+      "chanceDisplay": "6.78%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 6.7842,
+      "chanceDisplay": "6.78%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1865,
+      "itemName": "Varnish",
+      "qty": "1",
+      "chance": 3.3921,
+      "chanceDisplay": "3.39%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1866,
+      "itemName": "Suede",
+      "qty": "1",
+      "chance": 2.2614,
+      "chanceDisplay": "2.26%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2150,
+      "itemName": "Recipe: Blue Diamond Necklace",
+      "qty": "1",
+      "chance": 1.5926,
+      "chanceDisplay": "1.59%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 1.3569,
+      "chanceDisplay": "1.36%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5273,
+      "itemName": "Recipe: Greater Spiritshot (D) Compressed Package(100%)",
+      "qty": "1",
+      "chance": 0.1357,
+      "chanceDisplay": "0.14%",
+      "type": "regular"
+    },
+    {
+      "itemId": 31,
+      "itemName": "Bone Gaiters",
+      "qty": "1",
+      "chance": 0.0935,
+      "chanceDisplay": "0.09%",
+      "type": "regular"
+    },
+    {
+      "itemId": 412,
+      "itemName": "Cotton Pants",
+      "qty": "1",
+      "chance": 0.0935,
+      "chanceDisplay": "0.09%",
+      "type": "regular"
+    },
+    {
+      "itemId": 24,
+      "itemName": "Bone Breastplate",
+      "qty": "1",
+      "chance": 0.0585,
+      "chanceDisplay": "0.06%",
+      "type": "regular"
+    },
+    {
+      "itemId": 390,
+      "itemName": "Cotton Shirt",
+      "qty": "1",
+      "chance": 0.0585,
+      "chanceDisplay": "0.06%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1865,
+      "itemName": "Varnish",
+      "qty": "1–2",
+      "chance": 40.1928,
+      "chanceDisplay": "40.19%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1924,
+      "itemName": "Leather Helmet Design",
+      "qty": "1",
+      "chance": 12.9654,
+      "chanceDisplay": "12.97%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 845,
+      "itemName": "Cat's Eye Earring",
+      "qty": "1",
+      "chance": 0.9042,
+      "chanceDisplay": "0.9%",
+      "type": "spoil"
+    }
+  ],
+  "20120": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "19–29",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1060,
+      "itemName": "Lesser Healing Potion",
+      "qty": "1",
+      "chance": 2.2174,
+      "chanceDisplay": "2.22%",
+      "type": "regular"
+    },
+    {
+      "itemId": 13,
+      "itemName": "Short Bow",
+      "qty": "1",
+      "chance": 1.0394,
+      "chanceDisplay": "1.04%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1870,
+      "itemName": "Coal",
+      "qty": "1",
+      "chance": 0.9979,
+      "chanceDisplay": "1%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1865,
+      "itemName": "Varnish",
+      "qty": "1",
+      "chance": 0.9979,
+      "chanceDisplay": "1%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1786,
+      "itemName": "Recipe: Broad Sword",
+      "qty": "1",
+      "chance": 0.7983,
+      "chanceDisplay": "0.8%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 7.7212,
+      "chanceDisplay": "7.72%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1787,
+      "itemName": "Recipe: Willow Staff",
+      "qty": "1",
+      "chance": 3.0885,
+      "chanceDisplay": "3.09%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1874,
+      "itemName": "Oriharukon Ore",
+      "qty": "1",
+      "chance": 0.2574,
+      "chanceDisplay": "0.26%",
+      "type": "spoil"
+    }
+  ],
+  "20132": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "80–108",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1797,
+      "itemName": "Recipe: Leather Stockings",
+      "qty": "1",
+      "chance": 4.441,
+      "chanceDisplay": "4.44%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1872,
+      "itemName": "Animal Bone",
+      "qty": "1",
+      "chance": 2.9311,
+      "chanceDisplay": "2.93%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1867,
+      "itemName": "Animal Skin",
+      "qty": "1",
+      "chance": 2.9311,
+      "chanceDisplay": "2.93%",
+      "type": "regular"
+    },
+    {
+      "itemId": 734,
+      "itemName": "Haste Potion",
+      "qty": "1",
+      "chance": 0.3664,
+      "chanceDisplay": "0.37%",
+      "type": "regular"
+    },
+    {
+      "itemId": 254,
+      "itemName": "Iron Gloves",
+      "qty": "1",
+      "chance": 0.1407,
+      "chanceDisplay": "0.14%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1060,
+      "itemName": "Lesser Healing Potion",
+      "qty": "1",
+      "chance": 33.0759,
+      "chanceDisplay": "33.08%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2006,
+      "itemName": "Willow Staff Head",
+      "qty": "1",
+      "chance": 1.0632,
+      "chanceDisplay": "1.06%",
+      "type": "spoil"
+    }
+  ],
+  "20144": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "253–506",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1341,
+      "itemName": "Bone Arrow",
+      "qty": "10–30",
+      "chance": 12.5,
+      "chanceDisplay": "12.5%",
+      "type": "regular"
+    },
+    {
+      "itemId": 6667,
+      "itemName": "Deluxe Chest Key - Grade 3",
+      "qty": "1",
+      "chance": 2.381,
+      "chanceDisplay": "2.38%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1879,
+      "itemName": "Cokes",
+      "qty": "1",
+      "chance": 0.6897,
+      "chanceDisplay": "0.69%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2976,
+      "itemName": "Recipe: Manticore Skin Boots",
+      "qty": "1",
+      "chance": 0.5348,
+      "chanceDisplay": "0.53%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1939,
+      "itemName": "Mithril Banded Gaiters Material",
+      "qty": "1",
+      "chance": 0.4671,
+      "chanceDisplay": "0.47%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2985,
+      "itemName": "Recipe: Plate Boots",
+      "qty": "1",
+      "chance": 0.431,
+      "chanceDisplay": "0.43%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1885,
+      "itemName": "High Grade Suede",
+      "qty": "1",
+      "chance": 0.4202,
+      "chanceDisplay": "0.42%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1938,
+      "itemName": "Mithril Banded Mail Material",
+      "qty": "1",
+      "chance": 0.3575,
+      "chanceDisplay": "0.36%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5549,
+      "itemName": "Metallic Thread",
+      "qty": "1",
+      "chance": 0.346,
+      "chanceDisplay": "0.35%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1875,
+      "itemName": "Stone of Purity",
+      "qty": "1",
+      "chance": 0.3096,
+      "chanceDisplay": "0.31%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5550,
+      "itemName": "Durable Metal Plate",
+      "qty": "1",
+      "chance": 0.0315,
+      "chanceDisplay": "0.03%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2274,
+      "itemName": "Recipe: Skull Breaker",
+      "qty": "1",
+      "chance": 0.0315,
+      "chanceDisplay": "0.03%",
+      "type": "regular"
+    },
+    {
+      "itemId": 415,
+      "itemName": "Mithril Banded Gaiters",
+      "qty": "1",
+      "chance": 0.0112,
+      "chanceDisplay": "0.01%",
+      "type": "regular"
+    },
+    {
+      "itemId": 416,
+      "itemName": "Reinforced Leather Gaiters",
+      "qty": "1",
+      "chance": 0.0112,
+      "chanceDisplay": "0.01%",
+      "type": "regular"
+    },
+    {
+      "itemId": 393,
+      "itemName": "Mithril Banded Mail",
+      "qty": "1",
+      "chance": 0.007,
+      "chanceDisplay": "1/14,286",
+      "type": "regular"
+    },
+    {
+      "itemId": 394,
+      "itemName": "Reinforced Leather Shirt",
+      "qty": "1",
+      "chance": 0.007,
+      "chanceDisplay": "1/14,286",
+      "type": "regular"
+    },
+    {
+      "itemId": 1901,
+      "itemName": "Tiger's Eye Earring Stone",
+      "qty": "1",
+      "chance": 8.2871,
+      "chanceDisplay": "8.29%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1880,
+      "itemName": "Steel",
+      "qty": "1",
+      "chance": 5.9999,
+      "chanceDisplay": "6%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2272,
+      "itemName": "Recipe: Sword of Revolution",
+      "qty": "1",
+      "chance": 0.4286,
+      "chanceDisplay": "0.43%",
+      "type": "spoil"
+    }
+  ],
+  "20147": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "130–231",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 16.8233,
+      "chanceDisplay": "16.82%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 8.4117,
+      "chanceDisplay": "8.41%",
+      "type": "regular"
+    },
+    {
+      "itemId": 6666,
+      "itemName": "Deluxe Chest Key - Grade 2",
+      "qty": "1",
+      "chance": 4.2059,
+      "chanceDisplay": "4.21%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 3.3647,
+      "chanceDisplay": "3.36%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 1.6824,
+      "chanceDisplay": "1.68%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1929,
+      "itemName": "Hard Leather Gaiters Material",
+      "qty": "1",
+      "chance": 0.5427,
+      "chanceDisplay": "0.54%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1927,
+      "itemName": "Hard Leather Shirt Pattern",
+      "qty": "1",
+      "chance": 0.3356,
+      "chanceDisplay": "0.34%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2255,
+      "itemName": "Recipe: Saber",
+      "qty": "1",
+      "chance": 0.1029,
+      "chanceDisplay": "0.1%",
+      "type": "regular"
+    },
+    {
+      "itemId": 33,
+      "itemName": "Hard Leather Gaiters",
+      "qty": "1",
+      "chance": 0.0366,
+      "chanceDisplay": "0.04%",
+      "type": "regular"
+    },
+    {
+      "itemId": 27,
+      "itemName": "Hard Leather Shirt",
+      "qty": "1",
+      "chance": 0.0228,
+      "chanceDisplay": "0.02%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 56.9536,
+      "chanceDisplay": "56.95%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1870,
+      "itemName": "Coal",
+      "qty": "1–2",
+      "chance": 28.4768,
+      "chanceDisplay": "28.48%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 11.3907,
+      "chanceDisplay": "11.39%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1876,
+      "itemName": "Mithril Ore",
+      "qty": "1",
+      "chance": 5.6954,
+      "chanceDisplay": "5.7%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1898,
+      "itemName": "Blue Diamond Necklace Gem",
+      "qty": "1",
+      "chance": 2.9252,
+      "chanceDisplay": "2.93%",
+      "type": "spoil"
+    }
+  ],
+  "20154": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "130–231",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 8.4117,
+      "chanceDisplay": "8.41%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 1.6824,
+      "chanceDisplay": "1.68%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1898,
+      "itemName": "Blue Diamond Necklace Gem",
+      "qty": "1",
+      "chance": 0.4321,
+      "chanceDisplay": "0.43%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5158,
+      "itemName": "Recipe: Spiritshot (D) Compressed Package (100%)",
+      "qty": "1",
+      "chance": 0.1683,
+      "chanceDisplay": "0.17%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2256,
+      "itemName": "Recipe: Assassin Knife",
+      "qty": "1",
+      "chance": 0.1029,
+      "chanceDisplay": "0.1%",
+      "type": "regular"
+    },
+    {
+      "itemId": 878,
+      "itemName": "Blue Coral Ring",
+      "qty": "1",
+      "chance": 0.0787,
+      "chanceDisplay": "0.08%",
+      "type": "regular"
+    },
+    {
+      "itemId": 846,
+      "itemName": "Coral Earring",
+      "qty": "1",
+      "chance": 0.0526,
+      "chanceDisplay": "0.05%",
+      "type": "regular"
+    },
+    {
+      "itemId": 909,
+      "itemName": "Blue Diamond Necklace",
+      "qty": "1",
+      "chance": 0.0395,
+      "chanceDisplay": "0.04%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2178,
+      "itemName": "Recipe: Dark Stockings",
+      "qty": "1",
+      "chance": 4.5563,
+      "chanceDisplay": "4.56%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1929,
+      "itemName": "Hard Leather Gaiters Material",
+      "qty": "1",
+      "chance": 3.6744,
+      "chanceDisplay": "3.67%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1898,
+      "itemName": "Blue Diamond Necklace Gem",
+      "qty": "1",
+      "chance": 2.9252,
+      "chanceDisplay": "2.93%",
+      "type": "spoil"
+    }
+  ],
+  "20192": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "248–496",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 9.0909,
+      "chanceDisplay": "9.09%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1869,
+      "itemName": "Iron Ore",
+      "qty": "1",
+      "chance": 5.2632,
+      "chanceDisplay": "5.26%",
+      "type": "regular"
+    },
+    {
+      "itemId": 6667,
+      "itemName": "Deluxe Chest Key - Grade 3",
+      "qty": "1",
+      "chance": 4.1667,
+      "chanceDisplay": "4.17%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1884,
+      "itemName": "Cord",
+      "qty": "1",
+      "chance": 2.9412,
+      "chanceDisplay": "2.94%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1878,
+      "itemName": "Braided Hemp",
+      "qty": "1",
+      "chance": 2.0833,
+      "chanceDisplay": "2.08%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2978,
+      "itemName": "Recipe: Elven Mithril Boots",
+      "qty": "1",
+      "chance": 0.3597,
+      "chanceDisplay": "0.36%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2028,
+      "itemName": "Shilen Knife Edge",
+      "qty": "1",
+      "chance": 0.0744,
+      "chanceDisplay": "0.07%",
+      "type": "regular"
+    },
+    {
+      "itemId": 8307,
+      "itemName": "Recipe: Priest Mace (100%)",
+      "qty": "1",
+      "chance": 0.0342,
+      "chanceDisplay": "0.03%",
+      "type": "regular"
+    },
+    {
+      "itemId": 238,
+      "itemName": "Dagger of Mana",
+      "qty": "1",
+      "chance": 0.0013,
+      "chanceDisplay": "1/76,923",
+      "type": "regular"
+    },
+    {
+      "itemId": 223,
+      "itemName": "Kukuri",
+      "qty": "1",
+      "chance": 0.0013,
+      "chanceDisplay": "1/76,923",
+      "type": "regular"
+    },
+    {
+      "itemId": 239,
+      "itemName": "Mystic Knife",
+      "qty": "1",
+      "chance": 0.0013,
+      "chanceDisplay": "1/76,923",
+      "type": "regular"
+    },
+    {
+      "itemId": 241,
+      "itemName": "Shilen Knife",
+      "qty": "1",
+      "chance": 0.0013,
+      "chanceDisplay": "1/76,923",
+      "type": "regular"
+    },
+    {
+      "itemId": 1901,
+      "itemName": "Tiger's Eye Earring Stone",
+      "qty": "1",
+      "chance": 8.1246,
+      "chanceDisplay": "8.12%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2146,
+      "itemName": "Recipe: Artisan's frame",
+      "qty": "1",
+      "chance": 4.2016,
+      "chanceDisplay": "4.2%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2447,
+      "itemName": "Gloves of Knowledge",
+      "qty": "1",
+      "chance": 0.2316,
+      "chanceDisplay": "0.23%",
+      "type": "spoil"
+    }
+  ],
+  "20205": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "151–278",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 10.0278,
+      "chanceDisplay": "10.03%",
+      "type": "regular"
+    },
+    {
+      "itemId": 6037,
+      "itemName": "Waking Scroll",
+      "qty": "1",
+      "chance": 10.0278,
+      "chanceDisplay": "10.03%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 2.0056,
+      "chanceDisplay": "2.01%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2255,
+      "itemName": "Recipe: Saber",
+      "qty": "1",
+      "chance": 0.1226,
+      "chanceDisplay": "0.12%",
+      "type": "regular"
+    },
+    {
+      "itemId": 257,
+      "itemName": "Viper's Fang",
+      "qty": "1",
+      "chance": 0.0164,
+      "chanceDisplay": "0.02%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1–3",
+      "chance": 67.896,
+      "chanceDisplay": "67.9%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1871,
+      "itemName": "Charcoal",
+      "qty": "1–2",
+      "chance": 33.948,
+      "chanceDisplay": "33.95%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1928,
+      "itemName": "Piece Bone Gaiters Fragment",
+      "qty": "1",
+      "chance": 4.9451,
+      "chanceDisplay": "4.95%",
+      "type": "spoil"
+    }
+  ],
+  "20432": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "8–12",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 17,
+      "itemName": "Wooden Arrow",
+      "qty": "10–30",
+      "chance": 1.1757,
+      "chanceDisplay": "1.18%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 0.4703,
+      "chanceDisplay": "0.47%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 0.4703,
+      "chanceDisplay": "0.47%",
+      "type": "regular"
+    },
+    {
+      "itemId": 11,
+      "itemName": "Bone Dagger",
+      "qty": "1",
+      "chance": 0.4286,
+      "chanceDisplay": "0.43%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1865,
+      "itemName": "Varnish",
+      "qty": "1",
+      "chance": 0.2352,
+      "chanceDisplay": "0.24%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1787,
+      "itemName": "Recipe: Willow Staff",
+      "qty": "1",
+      "chance": 0.1881,
+      "chanceDisplay": "0.19%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1866,
+      "itemName": "Suede",
+      "qty": "1",
+      "chance": 0.1568,
+      "chanceDisplay": "0.16%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 0.0941,
+      "chanceDisplay": "0.09%",
+      "type": "regular"
+    }
+  ],
+  "20468": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "41–58",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1795,
+      "itemName": "Recipe:Leather Shoes",
+      "qty": "1",
+      "chance": 5.777,
+      "chanceDisplay": "5.78%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1864,
+      "itemName": "Stem",
+      "qty": "1",
+      "chance": 3.0618,
+      "chanceDisplay": "3.06%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1869,
+      "itemName": "Iron Ore",
+      "qty": "1",
+      "chance": 1.5309,
+      "chanceDisplay": "1.53%",
+      "type": "regular"
+    },
+    {
+      "itemId": 99,
+      "itemName": "Apprentice's Spellbook",
+      "qty": "1",
+      "chance": 0.0735,
+      "chanceDisplay": "0.07%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1814,
+      "itemName": "Recipe: Leather",
+      "qty": "1",
+      "chance": 4.0916,
+      "chanceDisplay": "4.09%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1790,
+      "itemName": "Recipe: Dirk",
+      "qty": "1",
+      "chance": 1.437,
+      "chanceDisplay": "1.44%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2005,
+      "itemName": "Broadsword Blade",
+      "qty": "1",
+      "chance": 0.5553,
+      "chanceDisplay": "0.56%",
+      "type": "spoil"
+    }
+  ],
+  "20479": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "118–179",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 1833,
+      "itemName": "Bandage",
+      "qty": "1",
+      "chance": 9.2124,
+      "chanceDisplay": "9.21%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1872,
+      "itemName": "Animal Bone",
+      "qty": "1",
+      "chance": 4.6062,
+      "chanceDisplay": "4.61%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1867,
+      "itemName": "Animal Skin",
+      "qty": "1",
+      "chance": 4.6062,
+      "chanceDisplay": "4.61%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1792,
+      "itemName": "Recipe: Short Spear",
+      "qty": "1",
+      "chance": 0.2541,
+      "chanceDisplay": "0.25%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2008,
+      "itemName": "Cedar Staff Head",
+      "qty": "1",
+      "chance": 0.1793,
+      "chanceDisplay": "0.18%",
+      "type": "regular"
+    },
+    {
+      "itemId": 9,
+      "itemName": "Cedar Staff",
+      "qty": "1",
+      "chance": 0.0171,
+      "chanceDisplay": "0.02%",
+      "type": "regular"
+    },
+    {
+      "itemId": 154,
+      "itemName": "Dwarven Mace",
+      "qty": "1",
+      "chance": 0.0171,
+      "chanceDisplay": "0.02%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1922,
+      "itemName": "Leather Tunic Pattern",
+      "qty": "1",
+      "chance": 5.967,
+      "chanceDisplay": "5.97%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1792,
+      "itemName": "Recipe: Short Spear",
+      "qty": "1",
+      "chance": 1.7199,
+      "chanceDisplay": "1.72%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1793,
+      "itemName": "Recipe: Sword of Reflection",
+      "qty": "1",
+      "chance": 1.7199,
+      "chanceDisplay": "1.72%",
+      "type": "spoil"
+    }
+  ],
+  "20481": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "32–48",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "8–12",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 462,
+      "itemName": "Stockings",
+      "qty": "1",
+      "chance": 6.1224,
+      "chanceDisplay": "6.12%",
+      "type": "regular"
+    },
+    {
+      "itemId": 426,
+      "itemName": "Tunic",
+      "qty": "1",
+      "chance": 3.6585,
+      "chanceDisplay": "3.66%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 2.7522,
+      "chanceDisplay": "2.75%",
+      "type": "regular"
+    },
+    {
+      "itemId": 17,
+      "itemName": "Wooden Arrow",
+      "qty": "30–90",
+      "chance": 2.1739,
+      "chanceDisplay": "2.17%",
+      "type": "regular"
+    },
+    {
+      "itemId": 17,
+      "itemName": "Wooden Arrow",
+      "qty": "10–30",
+      "chance": 2.0574,
+      "chanceDisplay": "2.06%",
+      "type": "regular"
+    },
+    {
+      "itemId": 462,
+      "itemName": "Stockings",
+      "qty": "1",
+      "chance": 1.789,
+      "chanceDisplay": "1.79%",
+      "type": "regular"
+    },
+    {
+      "itemId": 426,
+      "itemName": "Tunic",
+      "qty": "1",
+      "chance": 1.1197,
+      "chanceDisplay": "1.12%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1786,
+      "itemName": "Recipe: Broad Sword",
+      "qty": "1",
+      "chance": 0.9174,
+      "chanceDisplay": "0.92%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 0.823,
+      "chanceDisplay": "0.82%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 0.6423,
+      "chanceDisplay": "0.64%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1786,
+      "itemName": "Recipe: Broad Sword",
+      "qty": "1",
+      "chance": 0.3292,
+      "chanceDisplay": "0.33%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1873,
+      "itemName": "Silver Nugget",
+      "qty": "1",
+      "chance": 0.1646,
+      "chanceDisplay": "0.16%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1868,
+      "itemName": "Thread",
+      "qty": "1",
+      "chance": 3.1839,
+      "chanceDisplay": "3.18%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1788,
+      "itemName": "Recipe: Bow",
+      "qty": "1",
+      "chance": 1.2736,
+      "chanceDisplay": "1.27%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1786,
+      "itemName": "Recipe: Broad Sword",
+      "qty": "1",
+      "chance": 1.2736,
+      "chanceDisplay": "1.27%",
+      "type": "spoil"
+    }
+  ],
+  "20495": [
+    {
+      "itemId": 57,
+      "itemName": "Adena",
+      "qty": "397–793",
+      "chance": 70,
+      "chanceDisplay": "70%",
+      "type": "adena"
+    },
+    {
+      "itemId": 6667,
+      "itemName": "Deluxe Chest Key - Grade 3",
+      "qty": "1",
+      "chance": 4.3478,
+      "chanceDisplay": "4.35%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1879,
+      "itemName": "Cokes",
+      "qty": "1",
+      "chance": 1.1111,
+      "chanceDisplay": "1.11%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2975,
+      "itemName": "Recipe: Brigandine Helmet",
+      "qty": "1",
+      "chance": 1.0101,
+      "chanceDisplay": "1.01%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5549,
+      "itemName": "Metallic Thread",
+      "qty": "1",
+      "chance": 0.6944,
+      "chanceDisplay": "0.69%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1875,
+      "itemName": "Stone of Purity",
+      "qty": "1",
+      "chance": 0.5208,
+      "chanceDisplay": "0.52%",
+      "type": "regular"
+    },
+    {
+      "itemId": 1885,
+      "itemName": "High Grade Suede",
+      "qty": "1",
+      "chance": 0.4525,
+      "chanceDisplay": "0.45%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2021,
+      "itemName": "Spinebone Sword Blade",
+      "qty": "1",
+      "chance": 0.1298,
+      "chanceDisplay": "0.13%",
+      "type": "regular"
+    },
+    {
+      "itemId": 5550,
+      "itemName": "Durable Metal Plate",
+      "qty": "1",
+      "chance": 0.1044,
+      "chanceDisplay": "0.1%",
+      "type": "regular"
+    },
+    {
+      "itemId": 955,
+      "itemName": "Scroll: Enchant Weapon (Grade D)",
+      "qty": "1",
+      "chance": 0.1044,
+      "chanceDisplay": "0.1%",
+      "type": "regular"
+    },
+    {
+      "itemId": 2274,
+      "itemName": "Recipe: Skull Breaker",
+      "qty": "1",
+      "chance": 0.0408,
+      "chanceDisplay": "0.04%",
+      "type": "regular"
+    },
+    {
+      "itemId": 126,
+      "itemName": "Artisan's Sword",
+      "qty": "1",
+      "chance": 0.0032,
+      "chanceDisplay": "1/31,250",
+      "type": "regular"
+    },
+    {
+      "itemId": 69,
+      "itemName": "Bastard Sword",
+      "qty": "1",
+      "chance": 0.0032,
+      "chanceDisplay": "1/31,250",
+      "type": "regular"
+    },
+    {
+      "itemId": 128,
+      "itemName": "Knight's Sword",
+      "qty": "1",
+      "chance": 0.0032,
+      "chanceDisplay": "1/31,250",
+      "type": "regular"
+    },
+    {
+      "itemId": 125,
+      "itemName": "Spinebone Sword",
+      "qty": "1",
+      "chance": 0.0032,
+      "chanceDisplay": "1/31,250",
+      "type": "regular"
+    },
+    {
+      "itemId": 1900,
+      "itemName": "Enchanted Necklace Chain",
+      "qty": "1",
+      "chance": 10.2868,
+      "chanceDisplay": "10.29%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 1936,
+      "itemName": "White Tunic Pattern",
+      "qty": "1",
+      "chance": 7.694,
+      "chanceDisplay": "7.69%",
+      "type": "spoil"
+    },
+    {
+      "itemId": 2267,
+      "itemName": "Recipe: Gastraphetes",
+      "qty": "1",
+      "chance": 0.9723,
+      "chanceDisplay": "0.97%",
+      "type": "spoil"
+    }
+  ]
+}
